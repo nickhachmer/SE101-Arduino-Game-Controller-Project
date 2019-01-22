@@ -4,5 +4,9 @@ Includes code for me and my partners arduino game controller and the 2D Unity ga
 
 Unity game made in Unity 2018.2.13f1
 
-Me and my Partner (Akshay Saxena) desgined and developed the code for the arduino and unity game. We obtained the sprites and graphics free
-from the unity asset store.
+Me and my Partner (Akshay Saxena) desgined and developed the code for the arduino and unity game. We obtained the sprites and graphics free from the unity asset store.
+
+To try the game out open: legumeleap.firebaseapp.com (open in firefox, or safari (doesn't work in chrome))
+
+
+
