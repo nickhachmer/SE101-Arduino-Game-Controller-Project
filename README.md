@@ -1,5 +1,5 @@
 # SE101-Arduino-Game-Controller-Project
-Includes code for an arduino game controller and the 2D Unity game assets used to demo the controller 
+Includes code for an arduino game controller and the 2D Unity game assets used to demo the controller.
 
 
 Unity game made in Unity 2018.2.13f1
